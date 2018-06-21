@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //柔和(soft)、明亮、温柔
+    <color name="soft_1">#FFFFCC</color>
+    <color name="soft_2">#CCFFFF</color>
+    <color name="soft_3">#FFCCCC</color>
+
+    <color name="soft_4">#FFCCCC</color>
+    <color name="soft_5">#FFFF99</color>
+    <color name="soft_6">#CCCCFF</color>
+
+    <color name="soft_7">#FF9966</color>
+    <color name="soft_8">#FF6666</color>
+    <color name="soft_9">#FFCCCC</color>
+
+    <color name="soft_10">#FFCC99</color>
+    <color name="soft_11">#CCFF99</color>
+    <color name="soft_12">#CCCCCC</color>
+
+    <color name="soft_13">#FFCCCC</color>
+    <color name="soft_14">#CCCCFF</color>
+    <color name="soft_15">#CCFFCC</color>
+
+    <color name="soft_16">#CCFFFF</color>
+    <color name="soft_17">#FFCCCC</color>
+    <color name="soft_18">#FFCCCC</color>
+
+    <color name="soft_19">#FFCCCC</color>
+    <color name="soft_20">#FFFFFF</color>
+    <color name="soft_21">#99CC99</color>
+
+    <color name="soft_22">#99CCCC</color>
+    <color name="soft_23">#FFCC99</color>
+    <color name="soft_24">#FFCCCC</color>
+
+    <color name="soft_25">#CCCCFF</color>
+    <color name="soft_26">#FFCCCC</color>
+    <color name="soft_27">#CCFFFF</color>
+
+    <color name="soft_28">#FFCC99</color>
+    <color name="soft_29">#FFFFCC</color>
+    <color name="soft_30">#99CCCC</color>
+     //柔和、洁净、爽朗(hearty)
+
+    <color name="hearty_1">#CCFF99</color>
+    <color name="hearty_2">#FFFFFF</color>
+    <color name="hearty_3">#99CCFF</color>
+
+    <color name="hearty_4">#00aaff</color>
+    <color name="hearty_5">#FFFFFF</color>
+    <color name="hearty_6">#CCFF99</color>
+
+    <color name="hearty_7">#CCFFCC</color>
+    <color name="hearty_8">#FFFFFF</color>
+    <color name="hearty_9">#66CCCC</color>
+
+    <color name="hearty_10">#CCCCFF</color>
+    <color name="hearty_11">#FFFFFF</color>
+    <color name="hearty_12">#99CCCC</color>
+
+    <color name="hearty_13">#CCFFCC</color>
+    <color name="hearty_14">#FFFFCC</color>
+    <color name="hearty_15">#FFFFCC</color>
+
+    <color name="hearty_16">#CCFFFF</color>
+    <color name="hearty_17">#FFFFFF</color>
+    <color name="hearty_18">#CCCCFF</color>
+
+    <color name="hearty_19">#CCFFFF</color>
+    <color name="hearty_20">#FFFFFF</color>
+    <color name="hearty_21">#99CCFF</color>
+
+    <color name="hearty_22">#66CCFF</color>
+    <color name="hearty_23">#FFFFFF</color>
+    <color name="hearty_24">#CCFFFF</color>
+
+    <color name="hearty_25">#6699CC</color>
+    <color name="hearty_26">#FFFFFF</color>
+    <color name="hearty_27">#99CCFF</color>
+
+    <color name="hearty_28">#CCCCFF</color>
+    <color name="hearty_29">#FFFFFF</color>
+    <color name="hearty_30">#99CCFF</color>
+
+    //可爱(lovely)、快乐、有趣
+
+    <color name="lovely_1">#66CCCC</color>
+    <color name="lovely_2">#CCFF66</color>
+    <color name="lovely_3">#FF99CC</color>
+
+    <color name="lovely_4">#FF9999</color>
+    <color name="lovely_5">#FFFFFF</color>
+    <color name="lovely_6">#FFCC99</color>
+
+    <color name="lovely_7">#FF6666</color>
+    <color name="lovely_8">#FFFF66</color>
+    <color name="lovely_9">#99CC66</color>
+
+    <color name="lovely_10">#666699</color>
+    <color name="lovely_11">#FFFFFF</color>
+    <color name="lovely_12">#FF9999</color>
+
+    <color name="lovely_13">#99CC33</color>
+    <color name="lovely_14">#FF9900</color>
+    <color name="lovely_15">#FFCC00</color>
+
+    <color name="lovely_16">#FF0033</color>
+    <color name="lovely_17">#FFFFFF</color>
+    <color name="lovely_18">#FF9966</color>
+
+    <color name="lovely_19">#FF9900</color>
+    <color name="lovely_20">#CCFF00</color>
+    <color name="lovely_21">#CC3399</color>
+
+    <color name="lovely_22">#99CC33</color>
+    <color name="lovely_23">#FFFFFF</color>
+    <color name="lovely_24">#FF6600</color>
+
+    <color name="lovely_25">#993366</color>
+    <color name="lovely_26">#CCCC33</color>
+    <color name="lovely_27">#666633</color>
+
+    <color name="lovely_28">#66CCCC</color>
+    <color name="lovely_29">#FFFFFF</color>
+    <color name="lovely_30">#666699</color>
+
+</resources>

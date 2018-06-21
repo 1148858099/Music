@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+
+    <color name="colorPrimary2">#c0cf82</color>
+    <color name="colorPrimaryDark2">#c6e686</color>
+
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="font_black">#333333</color>
+    <color name="font_gray">#999999</color>
+
+
+    <color name="font_black2">#ffffff</color>
+    <color name="font_gray2">#bfbebe</color>
+
+
+
+    <color name="white">#fff</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="translucent_white_8p">#14FFFFFF</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="translucent_white_24p">#3DFFFFFF</color>
+    <color name="red">#F44336</color>
+    <color name="translucent_white">#80FFFFFF</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="translucent_white_96p">#F5FFFFFF</color>
+    <color name="translucent_grey_300_96p">#F5E0E0E0</color>
+    <color name="translucent_grey_900_96p">#F5212121</color>
+    <color name="translucent_grey_700_96p">#F5616161</color>
+
+    <color name="dot_unselector">#999999</color>
+    <color name="dot_selector">#ff0000</color>
+
+    <color name="main_color_blue">#7ec1ee</color>
+    <color name="main_color_green">#e4ffca</color>
+
+    <color name="divide_color">#999999</color>
+    <color name="transparent_home_bg">#50000000</color>
+    <color name="search_border_content">#eeeeee</color>
+    <color name="assis_color_deep_blue">#5195e5</color>
+
+    <color name="assis_color_deep_blue2">#000000</color>
+
+    <color name="loading_dialog_bg">#50000000</color>
+</resources>
